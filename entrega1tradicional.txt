@@ -1,6 +1,0 @@
-nombre_metodo:cantidad_nodos_visitados,profundidad_solucion,costo_solucion,largo_maximo_frontera
-astar:51,9,9,13
-greedy:38,11,11,20
-breadth_first:51,9,9,13
-depth_first:16,15,15,12
-limited_depth_first:16,15,15,12
