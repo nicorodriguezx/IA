@@ -89,7 +89,7 @@ if __name__ == '__main__':
     for repe in range(10):
         #result = resolver("hill_climbing", 200, None, None)
         #result = resolver("hill_climbing_stochastic", 200, None, None)
-        #result = resolver("beam", 200, 20, None)
+        result = resolver("beam", 200, 20, None)
         #result = resolver("hill_climbing_random_restarts", 200, None, 20)
         #result = resolver("simulated_annealing", 200, None, None)
 
