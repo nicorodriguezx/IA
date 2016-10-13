@@ -1,0 +1,2 @@
+1:{'A': 'Laser', 'C': 'Cabina', 'B': 'Cabina', 'E': 'Laser', 'D': 'Laser', 'G': 'Cabina', 'F': 'Cabina', 'I': 'Escudo', 'H': 'Laser', 'K': 'Cabina', 'J': 'Laser', 'M': 'Laser', 'L': 'Escudo', 'O': 'Cabina', 'N': 'Laser', 'Q': 'Cabina', 'P': 'Laser'}
+2:{'A': 'Bateria', 'C': 'Escudo', 'B': 'Cabina', 'E': 'Cabina', 'D': 'Laser', 'G': 'Escudo', 'F': 'Cabina', 'I': 'Cabina', 'H': 'Laser', 'K': 'Cabina', 'J': 'Bahia de carga', 'M': 'Cabina', 'L': 'Bateria', 'O': 'Laser', 'N': 'Cabina', 'Q': 'Cabina', 'P': 'Escudo'}
